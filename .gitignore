@@ -1,3 +1,7 @@
+
+twilioConfig.json
+*.swp
+
 lib-cov
 *.seed
 *.log
